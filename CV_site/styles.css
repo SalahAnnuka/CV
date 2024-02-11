@@ -9,6 +9,7 @@ body{
     color: black;
     display: flex;
     flex-direction: row;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 h2
 {
