@@ -12,7 +12,7 @@ body{
 }
 h2
 {
-    color: rgb(18, 42, 121);;
+    color: rgb(54, 89, 204);
 }
 .left{
     height: 100%;
@@ -26,7 +26,7 @@ h2
 {
     height: 100%;
     width: 20px;
-    background-color: rgb(179, 179, 179);
+    background-color: rgb(202, 202, 202);
 }
 .line1
 {
@@ -61,6 +61,7 @@ h2
     border-radius: 12px;
     border-color: rgb(253, 207, 58);
     padding: 10px;
+    white-space: nowrap;
 }
 .sum{}
 .skills{}
