@@ -71,6 +71,7 @@ div{
     border-color: rgb(253, 207, 58);
     padding: 10px;
     white-space: nowrap;
+    gap: 10px;
 }
 .sum{}
 .skills{}
