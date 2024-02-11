@@ -10,6 +10,10 @@ body{
     display: flex;
     flex-direction: row;
 }
+h2
+{
+    color: rgb(18, 42, 121);;
+}
 .left{
     background-color: rgb(18, 42, 121);
     display: flex;
@@ -20,7 +24,7 @@ body{
 .right{
     height: 100%;
     width: 100%;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(238, 238, 238);
     display: flex;
     flex-direction:column;
     padding: 2%;
@@ -39,6 +43,11 @@ body{
 .contact{
     display: flex;
     flex-direction: column;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 12px;
+    border-color: rgb(253, 207, 58);
+    padding: 10px;
 }
 .sum{}
 .skills{}
