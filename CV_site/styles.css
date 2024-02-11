@@ -13,6 +13,8 @@ body{
 }
 h2
 {
+    margin: 0;
+    padding: 0;
     color: rgb(54, 89, 204);
 }
 div{
@@ -47,7 +49,7 @@ div{
     background-color: rgb(255, 255, 255);
     display: flex;
     flex-direction:column;
-    padding: 2%;
+    padding: 4%;
 }
 .pfp{
     background-image: url("pfp.jpg");
