@@ -25,6 +25,7 @@ div{
 }
 .left{
     height: 100%;
+    width: 50%;
     background-color: rgb(18, 42, 121);
     display: flex;
     flex-direction:column;
@@ -45,7 +46,7 @@ div{
 }
 .right{
     height: 100%;
-    width: 100%;
+    width: 50%;
     background-image: url("bg.jpg");
     display: flex;
     flex-direction:column;
