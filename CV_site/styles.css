@@ -64,7 +64,7 @@ div{
     border-radius: 50%;
 }
 .contact{
-    width: fit-content;
+    width: max-content;
     display: flex;
     flex-direction: column;
     border-style: solid;
@@ -72,7 +72,6 @@ div{
     border-radius: 12px;
     border-color: rgb(253, 207, 58);
     padding: 10px;
-    white-space: nowrap;
     gap: 10px;
 }
 .sum{}
