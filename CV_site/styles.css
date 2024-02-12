@@ -36,13 +36,13 @@ div{
 {
     height: 100%;
     width: 20px;
-    background-color: rgb(202, 202, 202);
+    background-color: rgb(67, 96, 189);
 }
 .line1
 {
     height: 100%;
     width: 12px;
-    background-color: rgb(15, 28, 72);
+    background-color: rgb(21, 39, 95);
 }
 .right{
     height: 100%;
@@ -64,6 +64,7 @@ div{
     border-radius: 50%;
 }
 .contact{
+    width: fit-content;
     display: flex;
     flex-direction: column;
     border-style: solid;
