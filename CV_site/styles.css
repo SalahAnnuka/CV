@@ -53,7 +53,7 @@ div{
     padding: 4%;
 }
 .pfp{
-    background-image: url("pfp.jpg");
+    background-image: url("image.png");
     position: center;
     background-size: cover;
     width: 250px;
@@ -77,4 +77,9 @@ div{
 .sum{}
 .skills{}
 .hobbies{}
+.main{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
 
